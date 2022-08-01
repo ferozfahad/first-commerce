@@ -47,3 +47,9 @@
    
 }
 /* Catagories section end */
+/*start shoes section */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+/*End shoes section */
