@@ -1,6 +1,6 @@
 /* Global section */
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 /* Banner section start */
 .orrange-bg{
@@ -53,3 +53,9 @@
     box-shadow: 5px 5px 10px lightgray;
 }
 /*End shoes section */
+.card-footer{
+    border-top: none;
+}
+#back{
+    margin-top: 100px;
+}
