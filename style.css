@@ -59,3 +59,11 @@
 #back{
     margin-top: 100px;
 }
+/* subscription */
+#subscription{
+    height: 300px;
+}
+footer{
+    background-color: rgb(247, 184, 184);
+}
+
